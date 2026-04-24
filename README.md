@@ -70,7 +70,7 @@ const ayush = {
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,render,vercel,netlify,vscode,postman,npm" />
 </p>
 
 ### Also Use
@@ -124,6 +124,28 @@ const ayush = {
 
 ---
 
+Bhai bahut accha lag raha hai! Graph render ho gaya 🔥
+Bas 2 fixes chahiye:
+
+Render icon add karna hai
+GitHub ka natural contribution heatmap bhi add karna hai graph ke saath
+
+
+Sirf 📈 Contribution Graph section replace karo yeh se:
+markdown## 📈 Contribution Graph
+
+<div align="center">
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh2005-coder&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/ayushsingh2005-coder/ayushsingh2005-coder/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+---
 ## 📈 Contribution Graph
 
 <div align="center">
