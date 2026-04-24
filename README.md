@@ -1,7 +1,4 @@
 # Hi there, I'm Ayush Singh 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Builder;AI+%2F+ML+Enthusiast;Hackathon+Ready+🚀)](https://git.io/typing-svg)
-
 ---
 
 <div align="center">
