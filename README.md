@@ -32,3 +32,49 @@ const ayush = {
   superpower  : "Shipping full projects in hours, not weeks ⚡",
   funFact     : "Built an AI/ML plant disease detector in just 4 hours 🌱"
 }
+
+---
+🚀 Featured Projects
+<div align="center">
+🏷️ Project	📝 Description	🛠️ Stack
+🛡️ SystemGuardian
+	AI-powered CLI that intercepts & analyzes dangerous terminal commands in real-time. Published on npm.	Node.js · Gemini AI
+🎵 Zuno
+	Free music streaming platform — stream & download with zero subscription	JavaScript · MERN
+</div>
+🛠️ Tech Stack
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
+Frontend
+<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,figma" />
+Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,render,vercel,netlify,vscode,postman,npm" /> </div>
+🤖 AI Tools
+<div align="center">
+Tool	Usage
+🤖 Claude	Architecture & Code Review
+✨ Gemini	API Integration
+💬 ChatGPT	Rapid Prototyping
+🛠️ Lovable	Frontend MVPs
+⚡ Bolt	Quick Scaffolding
+🐙 GitHub Copilot	Daily Coding
+</div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh2005-coder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh2005-coder&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </div> <div align="center">
+
+</div>
+🏆 Trophies
+<div align="center">
+
+</div>
+📈 Contribution Graph
+<div align="center"> <!-- LINE GRAPH -->
+
+</div>
+<div align="center"> <!-- REAL GITHUB HEATMAP --> <img src="https://ghchart.rshah.org/6C63FF/ayushsingh2005-coder" /> </div>
+<div align="center"> <!-- SNAKE (works only after GitHub Action setup) -->
+
+</div> ```
