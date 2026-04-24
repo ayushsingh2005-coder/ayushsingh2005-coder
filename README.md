@@ -31,18 +31,22 @@ const ayush = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,html,css,python,c,cpp,npm,docker,vercel,netlify,render,github,postman,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,html,css,python&perline=10" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,npm,docker,vercel,netlify,render,github,postman,vscode&perline=10" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,figma,firebase,jwt,reactnative&perline=10" />
+</p>
+
+**Also use:** React Hook Form • React Router • EJS • Nodemon • JWT • Windows Terminal
 
 ---
 
 ## 🤖 AI Tools I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ai" />
-</p>
-
-> Claude • Gemini • ChatGPT • Lovable • Bolt • GitHub Copilot
+> Claude • Gemini • ChatGPT • GitHub Copilot • Lovable • Bolt
 
 ---
 
@@ -70,10 +74,18 @@ const ayush = {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="your-linkedin-url"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="your-reddit-url"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-  <a href="your-discord-url"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="mailto:your-email"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="your-linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="your-reddit-url">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+  <a href="your-discord-url">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
