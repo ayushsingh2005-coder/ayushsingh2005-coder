@@ -136,3 +136,12 @@ const ayush = {
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
+
+---
+## 📊 Contribution Heatmap
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/6C63FF/ayushsingh2005-coder" />
+
+</div>
