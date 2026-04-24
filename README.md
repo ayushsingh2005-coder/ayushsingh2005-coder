@@ -142,6 +142,6 @@ const ayush = {
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/6C63FF/ayushsingh2005-coder" />
+<img src="https://ghchart.rshah.org/40c463/ayushsingh2005-coder" />
 
 </div>
