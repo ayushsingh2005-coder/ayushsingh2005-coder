@@ -37,7 +37,7 @@ const ayush = {
   <img src="https://skillicons.dev/icons?i=c,cpp,npm,docker,vercel,netlify,render,github,postman,vscode&perline=10" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,firebase,jwt,reactnative&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,jwt,reactnative&perline=10" />
 </p>
 
 **Also use:** React Hook Form • React Router • EJS • Nodemon • JWT • Windows Terminal
