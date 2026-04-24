@@ -128,20 +128,11 @@ const ayush = {
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh2005-coder&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
 ---
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
-
 ---
-## 📊 Contribution Heatmap
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/40c463/ayushsingh2005-coder" />
-
-</div>
